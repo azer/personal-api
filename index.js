@@ -6,7 +6,10 @@ var api = circle({
   '/': home
 });
 
-module.exports = start;
+module.exports = {
+  api: api,
+  start: start
+};
 
 function start (filename, port, hostname) {
   readJSON(filename, function (error, doc) {

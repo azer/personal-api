@@ -16,4 +16,4 @@ var server = require('../');
 if (argv.version) require('show-version');
 if (argv.help || argv._.length == 0) require('show-help');
 
-server(argv._[0], argv.port || 3000, argv.hostname);
+server.start(argv._[0], argv.port || 3000, argv.hostname);
