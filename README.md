@@ -21,7 +21,7 @@ Create a JSON file of your personal info:
   "name": "Azer Koçulu",
   "email": "azer@kodfabrik.com",
   "age": "26",
-  "male": true,
+  "gender": "male",
   "city": "Oakland",
   "hometown": "Kalkan",
   "instagram": "oakazer",
