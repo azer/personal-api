@@ -39,3 +39,28 @@ $ personal-api me.json
 ```
 
 Run `personal-api -h` or see `docs/man` for command-line options.
+
+## Running Programmatically
+
+```js
+var api = require('personal-api')
+
+api.start('me.json', 8000, 'localhost')
+```
+
+You can customize the output depending on the Accept type:
+
+```js
+api.server.format('/', 'text/plain', function (context, match) {
+  return {
+    contentType: 'text/plain',
+    response: 'Name: ' + context.result.name + ' E-Mail: ' + context.result.email
+  };
+});
+```
+
+## Compatible with cats
+
+It'll work for cats, as well.
+
+![](http://distilleryimage9.ak.instagram.com/8ab17022616811e38fb612064f8bfb61_6.jpg)
