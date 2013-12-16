@@ -61,6 +61,6 @@ api.server.format('/', 'text/plain', function (context, match) {
 
 ## Compatible with cats
 
-It'll work for cats, as well.
+It'll work for cats, as well. Example cat API: [blackbear.api.azer.io](http://blackbear.api.azer.io/)
 
 ![](http://distilleryimage9.ak.instagram.com/8ab17022616811e38fb612064f8bfb61_6.jpg)
