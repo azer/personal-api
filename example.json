@@ -2,7 +2,7 @@
   "name": "Azer Koçulu",
   "email": "azer@kodfabrik.com",
   "age": "26",
-  "male": true,
+  "gender": "male",
   "city": "Oakland",
   "hometown": "Kalkan",
   "photo": "http://farm4.staticflickr.com/3674/8760363780_cdbe567873_o.jpg",
