@@ -32,7 +32,7 @@ Create a JSON file of your personal info:
 }
 ```
 
-To start the server:
+And start the server:
 
 ```bash
 $ personal-api me.json
