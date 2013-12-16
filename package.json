@@ -1,6 +1,6 @@
 {
   "name": "personal-api",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Azer's Personal API Server",
   "bin": {
     "personal-api": "./bin/personal-api"
