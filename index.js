@@ -1,7 +1,7 @@
 var circle = require("circle");
 var readJSON = require("read-json");
-
 var document;
+
 var api = circle({
   '/': home
 });
