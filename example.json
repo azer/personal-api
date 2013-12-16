@@ -1,0 +1,29 @@
+{
+  "name": "Azer Koçulu",
+  "email": "azer@kodfabrik.com",
+  "age": "26",
+  "male": true,
+  "city": "Oakland",
+  "hometown": "Kalkan",
+  "photo": "http://farm4.staticflickr.com/3674/8760363780_cdbe567873_o.jpg",
+  "favorite foods": [
+    "fırında hamsi", "mantı", "ramen", "kimci burrito", "lahmacun", "hatay dürümü", "shabu shabu", "kokoreç", "çupra ızgara", "midye dolma", "çiğ köfte", "sulu patates + ekmek", "tavuklu salatalı pilav", "saç kavurma", "tom yum soup", "suān làtāng (酸辣湯)", "pide (kıymalı/kuşbaşı)"
+  ],
+  "favorite drinks": [
+    "ceylon black tea", "rakı", "rize black tea", "sikhye", "uuolong milk tea", "tuborg gold", "efes pilsen", "red stag whisky", "oralet", "kuşburnu", "salep", "vietnamese iced coffee"
+  ],
+  "favorite shows": ["leyla ile mecnun", "pokemon", "breaking bad", "ikinci bahar"],
+  "favorite movies": ["climates", "clouds of may", "pi", "into the wild"],
+  "favorite music": ["ahmet kaya", "bandista", "musa eroglu", "orhan gencebay", "neset ertas", "onur akin", "lhasa de sala", "flört", "kazim koyuncu", "pentagram", "volkan konak", "yıldız tilbe"],
+  "favorite books": ["white castle", "notes from underground", "okumak istiyorum"],
+  "religious view": "atheist",
+  "political view": "anarchism",
+  "links": {
+    "instagram": "http://instagram.com/oakazer",
+    "flickr": "http://flickr.com/azer",
+    "github": "http://github.com/azer",
+    "twitter": "http://twitter.com/4zjs",
+    "facebook": "http://facebook.com/azerjs",
+    "lastfm": "http://last.fm/user/azerkoculu"
+  }
+}
