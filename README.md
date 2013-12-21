@@ -1,6 +1,6 @@
 ## personal-api
 
-API server to publish personal info. Example API: [api.azer.io](http://api.azer.io)
+API server to publish personal info. Example APIs: [alperkan.at](http://alperkan.at), [api.azer.io](http://api.azer.io)
 
 ```bash
 $ personal-api azer.json
