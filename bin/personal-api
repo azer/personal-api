@@ -6,7 +6,7 @@ var opt = require('optimist');
 
 var argv = opt
       .options('port', { alias: 'p' })
-      .options('hostname', { alias: 'h' })
+      .options('hostname', { alias: 'o' })
       .options('version', { alias: 'v' })
       .options('help', { alias: 'h' })
       .argv;
