@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-require('default-debug')('circle:server');
+var debug = require('default-debug')('circle:server');
 
 var opt = require('optimist');
 
