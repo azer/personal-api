@@ -7,8 +7,6 @@
   },
   "main": "index.js",
   "dependencies": {
-    "show-help": "*",
-    "show-version": "*",
     "default-debug": "*",
     "circle": "*",
     "read-json": "0.0.0",
