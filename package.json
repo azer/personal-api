@@ -10,9 +10,9 @@
     "show-help": "*",
     "show-version": "*",
     "default-debug": "*",
-    "optimist": "*",
     "circle": "*",
-    "read-json": "0.0.0"
+    "read-json": "0.0.0",
+    "new-command": "0.0.0"
   },
   "keywords": [
     "personal",
